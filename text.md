@@ -6,3 +6,6 @@
 2. 머신러닝/딥러닝 이론 정리하기
 
 3. 스터디에 사용한 책 https://wikidocs.net/book/2788
+
+
+((마크다운 사용법: https://gist.github.com/ihoneymon/652be052a0727ad59601))
