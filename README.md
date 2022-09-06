@@ -9,4 +9,5 @@
 
 4. 캐글을 사용한 딥러닝 공부 순서 https://careers.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=20030
 
+5. 일주일에 하나씩 내용 정리해서 올리기
 ((마크다운 사용법: https://gist.github.com/ihoneymon/652be052a0727ad59601))
